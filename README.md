@@ -106,9 +106,6 @@ screenshot-extension/
 │   ├── index.css
 │   └── index.js
 ```
-
-![Architecture Diagram](images/architecture.png)
-
 ### Key Components
 1. **Background Service Worker** (background/index.js)
    - Manages extension lifecycle
@@ -157,8 +154,6 @@ git clone https://github.com/yourusername/ai-image-pal.git
 3. Load the extension:
    - Click "Load unpacked"
    - Select the extension directory
-
-![Dev Setup](images/dev-setup.png)
 
 ## 🤝 Contributing
 
