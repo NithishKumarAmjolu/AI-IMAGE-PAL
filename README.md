@@ -1,7 +1,5 @@
 # AI Image Pal - Your Study Companion
 
-![AI Image Pal Logo](images/logo.png)
-
 📚 **Perfect for Students!**
 Transform your learning experience with AI Image Pal - a powerful Chrome extension designed specifically for students. Got a confusing concept in your textbook? A complex diagram in your study material? Or a challenging homework problem? Simply:
 1. Screenshot the question or concept
@@ -29,7 +27,9 @@ AI Image Pal is a powerful Chrome extension that combines OCR (Optical Character
 - Support for full-page screenshots
 - Quick capture shortcuts
 
-![Screenshot Tool Demo](images/screenshot-demo.gif)
+![Screenshot Tool Demo](https://raw.githubusercontent.com/NithishKumarAmjolu/AI-IMAGE-PAL/refs/heads/main/pics/screenshot.png)
+![Screenshot Tool Demo](https://raw.githubusercontent.com/NithishKumarAmjolu/AI-IMAGE-PAL/refs/heads/main/pics/Screenshot%20(42).png)
+![Screenshot Tool Demo](https://raw.githubusercontent.com/NithishKumarAmjolu/AI-IMAGE-PAL/refs/heads/main/pics/Screenshot%20(43).png)
 
 ### 2. Advanced OCR Capabilities
 - Extract text from images with high accuracy
@@ -37,7 +37,8 @@ AI Image Pal is a powerful Chrome extension that combines OCR (Optical Character
 - Real-time text recognition
 - Copy extracted text to clipboard with one click
 
-![OCR Demo](images/ocr-demo.png)
+![OCR Demo](https://raw.githubusercontent.com/NithishKumarAmjolu/AI-IMAGE-PAL/refs/heads/main/pics/1.png)
+![OCR Demo](https://raw.githubusercontent.com/NithishKumarAmjolu/AI-IMAGE-PAL/refs/heads/main/pics/ocr.png)
 
 ### 3. Chat Remembrance
 - Intelligent conversation history tracking
@@ -48,7 +49,7 @@ AI Image Pal is a powerful Chrome extension that combines OCR (Optical Character
 - Easy access to past conversations
 - Seamless chat restoration when reopening the extension
 
-![Chat History Feature](images/chat-history.png)
+![Chat History Feature](https://raw.githubusercontent.com/NithishKumarAmjolu/AI-IMAGE-PAL/refs/heads/main/pics/concatenate%20msgs.png)
 
 ### 4. AI-Powered Features (Powered by OpenAI)
 - Advanced natural language processing using OpenAI's GPT models
@@ -59,7 +60,8 @@ AI Image Pal is a powerful Chrome extension that combines OCR (Optical Character
 - Dynamic conversation handling through OpenAI's API
 - Real-time AI-powered responses
 
-![AI Features](images/ai-features.png)
+![AI Features](https://raw.githubusercontent.com/NithishKumarAmjolu/AI-IMAGE-PAL/refs/heads/main/pics/Screenshot%20(45).png)
+![AI Features](https://raw.githubusercontent.com/NithishKumarAmjolu/AI-IMAGE-PAL/refs/heads/main/pics/Screenshot%20(44).png)
 
 ## 💡 How to Use
 
@@ -69,15 +71,11 @@ AI Image Pal is a powerful Chrome extension that combines OCR (Optical Character
 3. Use the crop tool to adjust if needed
 4. Save or process the image
 
-![Usage Guide](images/usage-guide.gif)
-
 ### Extracting Text
 1. Capture an image or upload from your computer
 2. Wait for the automatic OCR processing
 3. View the extracted text in the results panel
 4. Copy, edit, or share the text
-
-![Text Extraction](images/text-extraction.png)
 
 ### Using Chat Remembrance
 1. Start a conversation with the AI
@@ -85,8 +83,6 @@ AI Image Pal is a powerful Chrome extension that combines OCR (Optical Character
 3. Return anytime to continue previous conversations
 4. Access past interactions through the history panel
 5. Continue discussions seamlessly across browser sessions
-
-![Chat Continuation](images/chat-continuation.png)
 
 ## 🛠️ Technical Implementation
 
@@ -181,27 +177,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 - [OpenAI](https://openai.com) for providing the powerful AI capabilities
 - Chrome Extensions API
 - Contributors and testers
-
-## 📸 Screenshots
-
-### Main Interface
-![Main Interface](images/main-interface.png)
-
-### Settings Panel
-![Settings Panel](images/settings-panel.png)
-
-### Results View
-![Results View](images/results-view.png)
-
-### Chat History Panel
-![Chat History](images/chat-history-panel.png)
-
-## 📞 Support
-
-For support, please:
-- Open an issue on GitHub
-- Check our [FAQ](docs/FAQ.md)
-- Join our [Discord community](https://discord.gg/aiimagepal)
 
 ---
 
