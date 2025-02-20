@@ -1,0 +1,44 @@
+{
+  "manifest_version": 3,
+  "name": "Screenshot Capture with OCR",
+  "version": "1.0",
+  "description": "Capture screenshots of selected areas with OCR and AI chat capabilities",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://api.openai.com/*"
+  ],
+  "action": {
+    "default_title": "Take Screenshot"
+  },
+  "background": {
+    "service_worker": "background/index.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "css": [
+        "vendor/jquery.Jcrop.min.css",
+        "content/index.css"
+      ],
+      "js": [
+        "vendor/jquery.min.js",
+        "vendor/jquery.Jcrop.min.js",
+        "content/crop.js",
+        "content/ai-functions.js",
+        "content/index.js"
+      ]
+    }
+  ],
+  "web_accessible_resources": [{
+    "resources": [
+      "content/pixel.png",
+      "vendor/Jcrop.gif"
+    ],
+    "matches": ["<all_urls>"]
+  }]
+}
