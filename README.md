@@ -28,6 +28,7 @@ AI Image Pal is a powerful Chrome extension that combines OCR (Optical Character
 - Quick capture shortcuts
 
 ![Screenshot Tool Demo](https://raw.githubusercontent.com/NithishKumarAmjolu/AI-IMAGE-PAL/refs/heads/main/pics/screenshot.png)
+![Screenshot Tool Demo](https://raw.githubusercontent.com/NithishKumarAmjolu/AI-IMAGE-PAL/refs/heads/main/pics/prompt%20page.png)
 ![Screenshot Tool Demo](https://raw.githubusercontent.com/NithishKumarAmjolu/AI-IMAGE-PAL/refs/heads/main/pics/Screenshot%20(42).png)
 ![Screenshot Tool Demo](https://raw.githubusercontent.com/NithishKumarAmjolu/AI-IMAGE-PAL/refs/heads/main/pics/Screenshot%20(43).png)
 
